@@ -1,9 +1,9 @@
 {
     "Ads": [
         {
-            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-            "admob_inters": "ca-app-pub-3940256099942544/1033173712",
-            "admob_open_app": "ca-app-pub-3940256099942544/3419835294",
+            "admob_banner": "ca-app-pub-6419448843709521/3481516878",
+            "admob_inters": "ca-app-pub-6419448843709521/3972471461",
+            "admob_open_app": "ca-app-pub-6419448843709521/6982666236",
             "interval_inters": 3
         }
     ]
